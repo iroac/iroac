@@ -17,14 +17,14 @@ Hi there! welcome to my Github! All coding projects are building from ground up,
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/iroacode#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/iroacode#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/iamviniciusnogueira/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/iamviniciusnogueira/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/euroacu#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/euroacu/#gh-dark-mode-only)
 
 ### Languages and Tools:
 
