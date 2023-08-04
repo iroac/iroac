@@ -1,16 +1,16 @@
-### Hi there 👋
+#👨🏻‍💻 Vinicius Nogueira
 
-<!--
-**iroac/iroac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**'Web Developer - Front-end Developer'**
 
-Here are some ideas to get you started:
+Hi there! welcome to my Github! All coding projects are building from ground up, from planning and designing all the way to soving real-life problems with code. I love develop solutions for my passions things like: music 🎸, climbing 🧗 and language learning **(Português - native/English - C2/Netherlands - B1)**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##🤓 Skills 
+
+💫 avaScript, React.JS, Redux, Tailwind, Next
+🗄 Node.JS, Express
+💿 MySql, Mongo.DB
+🔨 VScode, command line 
+🤖 TDD, design patterns, OOP, agile  
+
+⚡ Learning: Data strucutures, Java, Postgress
