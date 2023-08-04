@@ -10,10 +10,10 @@ Hi there! welcome to my Github! All coding projects are building from ground up,
 💫 JavaScript, React.JS, Redux, Tailwind, Next
 🗄 Node.JS, Express
 💿 MySql, Mongo.DB
-🔨 VScode, command line 
-🤖 TDD, design patterns, OOP, agile  
+🔨 VScode, command line
+🤖 TDD, design patterns, OOP, agile.
 
-⚡ Learning: Data strucutures, Java, Postgress
+⚡ Learning: Data strucutures, Java, Postgress.
 
 ### Connect with me:
 
