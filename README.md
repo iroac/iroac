@@ -7,11 +7,11 @@ Hi there! welcome to my Github! All coding projects are building from ground up,
 
 ## 🤓 Skills 
 
-💫 JavaScript, React.JS, Redux, Tailwind, Next
-🗄 Node.JS, Express
-💿 MySql, Mongo.DB
-🔨 VScode, command line
-🤖 TDD, design patterns, OOP, agile.
+- 💫 JavaScript, React.JS, Redux, Tailwind, Next
+- 🗄 Node.JS, Express
+- 💿 MySql, Mongo.DB
+- 🔨 VScode, command line
+- 🤖 TDD, design patterns, OOP, agile.
 
 ⚡ Learning: Data strucutures, Java, Postgress.
 
