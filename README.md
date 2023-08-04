@@ -7,7 +7,7 @@ Hi there! welcome to my Github! All coding projects are building from ground up,
 
 ## 🤓 Skills 
 
-💫 avaScript, React.JS, Redux, Tailwind, Next
+💫 JavaScript, React.JS, Redux, Tailwind, Next
 🗄 Node.JS, Express
 💿 MySql, Mongo.DB
 🔨 VScode, command line 
